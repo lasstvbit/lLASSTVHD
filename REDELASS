@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Lasstv2" tvg-name="Lasstv SD" tvg-logo="https://static.wixstatic.com/media/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png/v1/fill/w_557,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png" group-title="Evangelico",Lastv SD
+https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
+#EXTINF:-1 tvg-id="Lasstv2" tvg-name="Lasstv SD" tvg-logo="https://static.wixstatic.com/media/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png/v1/fill/w_557,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png" group-title="Evangelico",Lastv HD
+https://video.ibm.com/embed/24819979.m3u8
+#EXTINF:-1 tvg-id="Lasstv2" tvg-name="Lasstv SD" tvg-logo="https://static.wixstatic.com/media/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png/v1/fill/w_557,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f7aac0_c70a70c8ce584410a759f71250d597dc~mv2.png" group-title="Evangelico",REDE LASSTV HD
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV Justiça SD" tvg-logo="https://tinyurl.com/tvjusticalogo" group-title="Canais - Abertos",TV Justiça SD
+http://angels.red:80/live/106637/329310/126762.m3u8
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV Senado SD" tvg-logo="https://tinyurl.com/senadologo" group-title="Canais - Abertos",TV Senado SD
+http://angels.red:80/live/106637/329310/126761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Marvel-Capitao America-24H" tvg-logo="" group-title="Marvel 24 Horas",Filmes Marvel-Capitao America-24H
+http://angels.red:80/live/106637/329310/126395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Marvel-Classicos da Marvel 2-24H" tvg-logo="" group-title="Marvel 24 Horas",Filmes Marvel-Classicos da Marvel 2- 24H
+http://angels.red:80/live/106637/329310/126393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Marvel-Homem de Ferro-24H" tvg-logo="" group-title="Marvel 24 Horas",Filmes Marvel-Homem de Ferro-24H
+http://angels.red:80/live/106637/329310/126392.m3u8
